@@ -1,16 +1,19 @@
 # installing and running computational physics codes in the google colaboratory environment
 
 * MateriApps LIVE!
-  * https://github.com/cmsi/MateriAppsLive/wiki/UsingMateriAppsInDebian
-  * Google Colaboratory is running on top of 18.04.3 LTS (can be checked by "!cat /etc/os-release"), so these commands should work.
-
-* HPhi
-
-* mVMC
-
-* TeNeS
+  * Google Colaboratory is running on top of 18.04.3 LTS (can be checked by "!cat /etc/os-release"), so the commands introduced in the website https://github.com/cmsi/MateriAppsLive/wiki/UsingMateriAppsInDebian should work.
 
 * Quantum ESPRESSO
   * https://qiita.com/cometscome_phys/items/a31ab8a4a4f7217a70ff
 
+* HPhi
+  * [Open with Colab](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/hphi.ipynb)
+
+* mVMC
+  * [under construction]
+
+* TeNeS
+  * [under construction]
+
 * ITensor
+  * [under construction]
