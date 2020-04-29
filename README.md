@@ -17,7 +17,7 @@
   * Install mVMC ver.1.1.1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_mvmc.ipynb)
 
 * TeNeS
-  * [under construction]
+  * Install TeNeS ver.1.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_tenes.ipynb)
 
 * ITensor
   * Install and run ITensor v.3.1.2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_and_run_itensor.ipynb)
