@@ -1,7 +1,7 @@
 # installing and running computational physics codes in the google colaboratory environment
 
 * MateriApps LIVE!
-  * Google Colaboratory is running on top of 18.04.3 LTS (can be checked by "!cat /etc/os-release"), so the commands introduced in the website https://github.com/cmsi/MateriAppsLive/wiki/UsingMateriAppsInDebian should work.
+  * Google Colaboratory is running on top of Ubuntu 18.04.3 LTS (can be checked by "!cat /etc/os-release"), so the commands introduced in the website https://github.com/cmsi/MateriAppsLive/wiki/UsingMateriAppsInDebian should work.
   * Install packages in MateriApps LIVE! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_materiapps_exclude_ermod.ipynb)
 <!--
   * Install packages in MateriApps LIVE! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_materiapps.ipynb)
