@@ -9,6 +9,7 @@
 
 * Quantum ESPRESSO
   * See https://qiita.com/cometscome_phys/items/a31ab8a4a4f7217a70ff
+  * Install and run Quantum ESPRESSO [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_and_run_quantum_espresso.ipynb)
 
 * HPhi
   * Install HPhi ver.3.3.1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_hphi.ipynb)
