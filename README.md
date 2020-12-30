@@ -28,3 +28,22 @@
 
 * QuSpin
   * Install QuSpin dev_0.3.4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_quspin_by_miniconda.ipynb)
+
+----
+
+# to be added?
+
+* DCore
+  * https://github.com/issp-center-dev/DCore
+
+* TeNPy
+  * https://github.com/tenpy/tenpy
+
+* Uni10
+  * https://gitlab.com/uni10/uni10/
+
+* ALF
+  * https://git.physik.uni-wuerzburg.de/ALF/ALF_code
+
+* ALPS
+  * http://alps.comp-phys.org/mediawiki/index.php/Main_Page
