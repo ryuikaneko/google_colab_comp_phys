@@ -17,6 +17,9 @@
 * mVMC
   * Install mVMC ver.1.1.1 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_mvmc.ipynb)
 
+* DSQSS
+  * Install DSQSS ver.2.0.3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_dsqss.ipynb)
+
 * TeNeS
   * Install TeNeS ver.1.0 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_tenes.ipynb)
 
