@@ -26,6 +26,10 @@
 * ITensor
   * Install and run ITensor v.3.1.2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_and_run_itensor.ipynb)
 
+* RPMPS+T
+  * https://github.com/ShimpeiGoto/RPMPS-T
+  * Install and run RPMPS+T [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_rpmps_t_executed.ipynb)
+
 * QuSpin
   * Install QuSpin dev_0.3.4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_quspin_by_miniconda.ipynb)
 
