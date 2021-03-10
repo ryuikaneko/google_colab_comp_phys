@@ -31,6 +31,7 @@
   * Install and run RPMPS+T [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_rpmps_t_executed.ipynb)
 
 * QuSpin
+  * https://github.com/weinbe58/QuSpin
   * Install QuSpin dev_0.3.4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_quspin_by_miniconda.ipynb)
 
 ----
