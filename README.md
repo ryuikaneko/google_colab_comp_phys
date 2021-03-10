@@ -35,7 +35,7 @@
 
 * RPMPS+T (using ITensor)
   * https://github.com/ShimpeiGoto/RPMPS-T
-  * Install and run RPMPS+T [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_rpmps_t_executed.ipynb)
+  * Install and run RPMPS+T [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryuikaneko/google_colab_comp_phys/blob/master/install_and_run_rpmps_t_executed.ipynb)
 
 * QuSpin
   * https://github.com/weinbe58/QuSpin
